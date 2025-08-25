@@ -7,7 +7,7 @@ This repo attempts to create maintainable prompt driven library generation
 
 We move from a [plan](requirements_plan.md) to [requirements](reqirements)  
 
-For a specific languages [go](prompts/go) to start with we adopt a deed context building
+For specific languages, [go](prompts/go) to start with, we adopt a deep context building
 approach with [meta](prompts/go/meta_prompt.md) prompting to build a persona as well as specific
 go [guidelines](prompts/go/golang_codestyle.md) for the LLM to use.
 
